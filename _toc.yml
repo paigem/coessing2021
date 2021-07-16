@@ -6,4 +6,3 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: Python_lab
