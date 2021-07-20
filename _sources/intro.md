@@ -1,16 +1,9 @@
-# Welcome to your Jupyter Book
+# Welcome to COESSING Python labs!
 
-This is a small sample book to give you a feel for how book content is
-structured.
+All COESSING 2021 Python labs have been consolidated here in a JupyterBook! This book contains Jupyter notebooks and can be run using our very own COESSING JupyterHub, generously set up by the non-profit organization [2i2c](http://2i2c.org).
 
 :::{note}
-Here is a note!
+Use JupyterHub to run the notebooks!
 :::
 
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+Check out the table of contents on the left-hand sidebar to view all of the notebooks available.
